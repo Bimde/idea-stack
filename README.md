@@ -1,6 +1,7 @@
 # Idea Stack - A Google Assistant Action
 
 Product Hunt: https://www.producthunt.com/posts/idea-stack
+
 Assistant Action Store: https://assistant.google.com/services/a/uid/0000002926d1b43e
 
 Ever having a conversation, get caught up doing something else and when you come back, forget what you were talking about? If so, Idea Stack might be for you!
